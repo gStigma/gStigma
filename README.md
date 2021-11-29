@@ -8,5 +8,5 @@ Hola soy estudiante de 5to. semestre de mecatrónica, los trabajos que desempeñ
 Mi principal objetivo es complementar el código, por el momento estoy en una fase de retroalimentación, así que las dudas ocasionales que surgen prefiero primero resolverlas por mi cuenta.
 ## Contacto
 * Gmail: jimenezhernandezjosemanuel30@gmail.com
-* Twitter: 
+* Twitter: https://twitter.com/Grup_Stigma
 > “Los humanos son unas criaturas muy pragmáticas, solo quieren las cosas que son buenas. Una vez que aprenden a distinguir lo bueno de lo malo, nunca dejan de comparar las cosas en su cabeza”
