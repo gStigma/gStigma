@@ -1,5 +1,5 @@
 # José Manuel Hernández - @gStigma
-Hola, soy estudiante de 10mo. semestre de mecatrónica, los trabajos que desempeños son para toda la comunidad, con el objetivo de reunir todo clase de aptitudes recreativas. 🎮 
+Hola, soy egresado de ingieneria en mecatrónica, los trabajos que desempeños son para toda la comunidad, con el objetivo de reunir todo clase de aptitudes recreativas. 🎮 
 ## Mis valores
 🦾 Dar crédito al trabajo de los demás.\
 🦾 Fortalecer el conocimiento de los demás si así lo desean.\
